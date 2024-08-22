@@ -26,4 +26,4 @@ my_list.pop()
 my_list.sort()
 
 # Find and print the index of the value 30 in my_list
-print(my_list.index(30))  # This prints the index where 30 is located in the sorted list
+print(my_list.index(30))
